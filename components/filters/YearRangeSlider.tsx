@@ -31,10 +31,10 @@ export function YearRangeSlider() {
   const setPredefinedRange = (range: 'historical' | 'forecast' | 'all') => {
     switch (range) {
       case 'historical':
-        updateFilters({ yearRange: [start_year, base_year] })
+        updateFilters({ yearRange: [start_year, base_year - 1] })
         break
       case 'forecast':
-        updateFilters({ yearRange: [base_year + 1, forecast_year] })
+        updateFilters({ yearRange: [base_year, forecast_year] })
         break
       case 'all':
         updateFilters({ yearRange: [start_year, forecast_year] })
