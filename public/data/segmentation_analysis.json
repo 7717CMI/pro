@@ -1,0 +1,58 @@
+{
+  "Global": {
+    "By Supplements": {},
+    "By Form": {},
+    "By Consumer Demographics": {},
+    "By Application": {},
+    "By Distribution Channel": {
+      "Offline": {
+        "Pharmacies and Drug Stores": {},
+        "Supermarkets and Hypermarkets": {},
+        "Others": {}
+      },
+      "Online": {
+        "Third Party E-commerce Websites": {},
+        "Company / Brand Owned Websites": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "U.S.": {},
+        "Canada": {}
+      },
+      "Europe": {
+        "U.K.": {},
+        "Germany": {},
+        "Italy": {},
+        "France": {},
+        "Spain": {},
+        "Russia": {},
+        "Rest of Europe": {}
+      },
+      "Asia Pacific": {
+        "China": {},
+        "India": {},
+        "Japan": {},
+        "South Korea": {},
+        "ASEAN": {},
+        "Australia": {},
+        "Rest of Asia Pacific": {}
+      },
+      "Latin America": {
+        "Brazil": {},
+        "Mexico": {},
+        "Rest of Latin America": {}
+      },
+      "Middle East": {
+        "GCC": {},
+        "Israel": {},
+        "Rest of Middle East": {}
+      },
+      "Africa": {
+        "North Africa": {},
+        "Central Africa": {},
+        "South Africa": {}
+      }
+    }
+  }
+}
