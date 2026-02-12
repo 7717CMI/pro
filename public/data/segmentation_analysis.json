@@ -1,20 +1,23 @@
 {
   "Global": {
-    "By Supplements": {},
-    "By Form": {},
-    "By Consumer Demographics": {},
-    "By Application": {},
-    "By Distribution Channel": {
-      "Offline": {
-        "Pharmacies and Drug Stores": {},
-        "Supermarkets and Hypermarkets": {},
-        "Others": {}
+    "By Product": {
+      "Probiotic Beverages": {
+        "Yogurt Drinks": {},
+        "Fermented Milk Drinks": {},
+        "Kombucha": {},
+        "Kefir": {},
+        "Probiotics Juices": {},
+        "Other Beverages": {}
       },
-      "Online": {
-        "Third Party E-commerce Websites": {},
-        "Company / Brand Owned Websites": {}
+      "Probiotic Dietary Supplements": {
+        "Food Supplements": {},
+        "Nutritional Supplements": {},
+        "Specialty Supplements": {}
       }
     },
+    "By Ingredient": {},
+    "By End User": {},
+    "By Distribution Channel": {},
     "By Region": {
       "North America": {
         "U.S.": {},
